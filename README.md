@@ -9,7 +9,7 @@ I'm an AI Engineer in Pune, India. I was a Full Stack Developer at Cognizant, an
 [![LeetCode](https://img.shields.io/badge/-LeetCode_399-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rushyaa/)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rushibhosalepro&theme=github-compact&hide_border=true&area=true&bg_color=0d1117" alt="Contribution graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rushibhosalepro&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&custom_title=Contribution%20Graph" alt="Contribution graph" width="100%" />
 </p>
 
 ### 🚀 Shipped
@@ -53,7 +53,7 @@ RAG agent that drafts replies to Indian GST notices.<br>
 <tr>
 <td valign="top">
 
-**👕 [TryOnThat](https://github.com/rushibhosalepro/try-on-me)**<br>
+**👕 [TryOnThat](https://tryonthat.com)**<br>
 AI virtual try-on in your browser while you shop.<br>
 [tryonthat.com →](https://tryonthat.com)<br>
 `Chrome Extension` `Gemini API` `Cloudflare R2`
@@ -61,7 +61,7 @@ AI virtual try-on in your browser while you shop.<br>
 </td>
 <td valign="top">
 
-**⏳ [Kairo](https://github.com/rushibhosalepro/kairo)**<br>
+**⏳ Kairo**<br>
 Deadline widget for Windows.<br>
 On the Microsoft Store.<br>
 `JavaScript` `Desktop`
