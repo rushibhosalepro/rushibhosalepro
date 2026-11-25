@@ -8,6 +8,10 @@ I'm an AI Engineer in Pune, India. I was a Full Stack Developer at Cognizant, an
 [![Devpost](https://img.shields.io/badge/-Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/rushibhosale84)
 [![LeetCode](https://img.shields.io/badge/-LeetCode_399-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rushyaa/)
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rushibhosalepro&theme=github-compact&hide_border=true&area=true&bg_color=0d1117" alt="Contribution graph" width="100%" />
+</p>
+
 ### 🚀 Shipped
 
 <table>
